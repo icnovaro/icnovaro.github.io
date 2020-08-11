@@ -6,7 +6,7 @@ tags: [vagrant]
 description: Tutorial de instalación de vagrant en ubuntu 20.04
 ---
 
-# Instalar Vagrant en Ubuntu 20.04
+### Instalar Vagrant en Ubuntu 20.04
 
 Vagrant necesita un proveedor para la creación de máquinas virtuales, para este tutorial instalaremos virtualbox en una máquina (host) con ubuntu 20.04.
 
@@ -39,7 +39,7 @@ vagrant --version
 
 y con esto ya tenemos instalado vagrant en nuestra máquina.
 
-## Primeros pasos
+#### Primeros pasos
 
 Aprovechando la instalación vamos a crear nuestra primera máquina con vagrant, para esto creamos un directorio de trabajo
 
